@@ -1,7 +1,7 @@
 # Teoria da Computação e Compiladores
 ## Linguagem
 > ### Alfabeto:
-> -	Conjunto finito $\alpha$
+> -	Conjunto finito \alpha
 > - 
 
 ## Gramática
